@@ -1,8 +1,3 @@
 # Digital Clock
 
-This digital clock was inspired by a recent coding challenge for a potential employer.  Rather than using a digital-style font, the numbers populate using corresponding indices from a block matrix.
-
-
-
----
-app deployed [here](http://shivering-sound.surge.sh/)
+This is `Edidonato1's` repo, I just forked it to test if I can save the picked colors to local storage.
